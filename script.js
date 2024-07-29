@@ -14,7 +14,7 @@ let linesCleared = 0;
 let ticks = 90;
 let updateEvery = 10;
 let updateEveryCurrent = 90;
-let fallSpeed = gridSpace * 0.50;
+let fallSpeed = gridSpace * 1;
 let pauseGame = false;
 let gameOver = false;
 
